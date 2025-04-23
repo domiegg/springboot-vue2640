@@ -1,0 +1,10 @@
+/*定义全局css*/
+body {
+
+	/* 咖啡色 */
+	/* 1 全局公共主颜色 */
+	--publicMainColor: #6a4826;
+	/* 1 全局公共副颜色 */
+	--publicSubColor:  #543622;
+
+}
